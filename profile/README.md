@@ -16,7 +16,7 @@
 
 
 ### Architecture :
-![aaa](Architecture.drawio.png)
+![Architecture](./Architecture.drawio.png)
 
 綠色部分已開發、設定完成  
 黃色部分開發中
