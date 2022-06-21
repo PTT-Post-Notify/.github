@@ -16,7 +16,7 @@
 
 
 ### Architecture :
-![Architecture](./Architecture.drawio.png)
+![Architecture](https://raw.githubusercontent.com/PTT-Post-Notify/.github/main/profile/Architecture.drawio.png)
 
 綠色部分已開發、設定完成  
 黃色部分開發中
